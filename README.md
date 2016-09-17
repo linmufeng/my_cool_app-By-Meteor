@@ -19,3 +19,5 @@ My first Meteor app
     $ cd ~/my_cool_app
     $ meteor
 现在打开浏览器，访问 http://localhost:3000（或者等效的 http://0.0.0.0:3000），应该能看到下面的网页：
+
+![alt text](https://github.com/linmufeng/my_cool_app-By-Meteor/blob/master/my_cool_app.png "运行网页页面")
